@@ -1,0 +1,9 @@
+Team Number    :	A12
+Project Name    :	Blood Cell Image Prediction  
+
+Sno                    Names    	            	      Email Address       	              Phone Numbers	            Linkedin		          Github Account		
+
+ 1	Chilakalapudi Mahendra	mahendrachilakalapudi@gmail.com 	7032286620	Chilakalapudi Mahendra	https://github.com/Mahe533
+ 2	Ghantasala Nani Babu	ghantasalanani@gmail.com		9553500180	Ghantasala Nani Babu	https://github.com/ghantasalanani
+ 3	Garlapati Balu Nitin		garlapatibalu11677@gmail.com		9182504768	balu garlapati		https://github.com/balu554
+ 4	Adapa Naga Sai Avinash              avinashadapa98@gmail.com		9290572790	Avinash Adapa		https://github.com/AvinashAdapa502
